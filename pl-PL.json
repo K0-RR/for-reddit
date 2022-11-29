@@ -1,0 +1,17 @@
+{
+	"TYPE_movie": "Movie",
+	"TYPE_series": "Series",
+	"TYPE_tv": "TV channel",
+	"TYPE_channel": "Channel",
+	"TYPE_other": "Other",
+	"TYPE_movie_PL": "Movies",
+	"TYPE_series_PL": "Series",
+	"TYPE_tv_PL": "TV channels",
+	"TYPE_channel_PL": "Channels",
+	"TYPE_other_PL": "Others",
+	"VIDEO": "Video",
+	"BACK": "Back",
+	"MORE": "More",
+	"DONE": "Done",
+	"COPY": "Copy"
+}
